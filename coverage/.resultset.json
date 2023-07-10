@@ -224,7 +224,7 @@
           null,
           1,
           1,
-          null,
+          1,
           null,
           null,
           null
@@ -238,6 +238,9 @@
       },
       "/Users/andilovetto/turing_work/2mod/lessons/set_list/app/models/artist.rb": {
         "lines": [
+          1,
+          1,
+          null,
           1,
           1,
           null,
@@ -258,15 +261,14 @@
           null
         ]
       },
-      "/Users/andilovetto/turing_work/2mod/lessons/set_list/app/controllers/songs_controller.rb": {
+      "/Users/andilovetto/turing_work/2mod/lessons/set_list/app/controllers/artist_songs_controller.rb": {
         "lines": [
           1,
-          1,
-          0,
-          null,
           null,
           1,
           1,
+          1,
+          null,
           null,
           null
         ]
@@ -278,6 +280,6 @@
         ]
       }
     },
-    "timestamp": 1688568884
+    "timestamp": 1688653187
   }
 }
